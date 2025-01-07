@@ -4,10 +4,10 @@
 ---
 
 ### ⚡ Welcome to My GitHub Profile 🚀  
-🔭 I'm a dedicated software engineer with **2 years of experience**, specializing in **Java, Kotlin, Spring Boot**, and **Cloud Technologies**.  
-🎯 My goal is to create impactful and scalable applications while continuously expanding my technical expertise.  
-💡 Let's connect and collaborate on innovative projects!
-
+🔭 Experienced Java Developer with 5.6 years in building scalable, high-performance applications using **Spring Boot, AWS, and microservices**..  
+🎯 Proficient in **REST API development**, **cloud technologies**, and **payment integrations**.  
+💡  Strong problem-solving skills and expertise in Agile practices
+ 
 ---
 
 ## 📫 How to Reach Me:
