@@ -38,15 +38,13 @@
 - **Languages**: Java  
 - **Frameworks & Tools**: Spring Boot, Hibernate/JPA, REST Services  
 - **Databases**: MySQL, PostgreSQL 
-- **Schedulers**: Spring Batch, CRON Jobs, Spring Scheduler  
-- **Cloud & DevOps**: Docker, Kubernetes (K8s), AWS (EC2, S3, SNS, SQS, Secret Manager)  
+- **Schedulers**: Spring Batch, CRON Jobs, Spring Scheduler   
 - **Version Control & PM Tools**: Git, JIRA, Confluence  
 - **Development Tools**: IntelliJ IDEA, Eclipse, Maven, Gradle
 - **Backend Technologies**: Java, J2EE, Spring Boot, Spring Scheduler, Spring Data JPA, Spring Security, Spring Cloud, Hibernate
-- **Cloud & DevOps**: AWS (S3, SNS, SQS, Lambda, API Gateway, SES), Docker, Jenkins
+- **Cloud & DevOps**: AWS (EC2, S3, SNS, SQS, Lambda, API Gateway, SES, Secret Manager), Docker, Jenkins, Kubernetes(K8s)
 - **Event Streaming & Messaging**: Kafka, AWS SNS, SQS, WebSocket
 -	**Testing Frameworks**: JUnit, Mockito, Spring Test
--	**Database Management**: MySQL, PostgreSQL
 -	**API Development**: Microservices, REST APIs, JSON, XML
 -	**Payment Integration**: Stripe, Google Pay, Apple Pay
 -	**Push Notification Services**: Firebase, AWS SNS
